@@ -7,7 +7,7 @@ This project seeks to answer the research question: Does sending SMS appointment
 The dataset for this project comes from the <a href="https://www.kaggle.com/datasets/joniarroba/noshowappointments">Kaggle Medical Appointment No Shows Dataset</a> and includes patient demographics, appointment details, and information on whether or not patients received an SMS reminder and subsequently showed up for their appointments.
 
 ## Technologies Used
-- **Python#**: For data analysis and model building.
+- **Python**: For data analysis and model building.
 - **Jupyter Notebook**: The project was executed and documented using a Jupyter notebook.
 - **Pandas and NumPy**: For data manipulation and analysis.
 - **Matplotlib and Seaborn**: For data visualization.
